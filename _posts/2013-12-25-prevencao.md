@@ -3,9 +3,9 @@ layout: default
 title: Prevenção da catapora
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Como é que pode prevenir a catapora?
+## Como é que pode prevenir a catapora?
 
 Você pode prevenir a catapora, sendo vacinado contra a catapora. Os médicos recomendam duas doses para crianças saudáveis com 12 meses de idade ou mais que não tiveram a catapora. As crianças mais velhas e adultos que não tiveram catapora e não ainda foram vacinados também precisam de duas doses.
 

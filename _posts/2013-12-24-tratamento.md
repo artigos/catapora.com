@@ -3,9 +3,9 @@ layout: default
 title: Tratamento da catapora
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Como é tratada a catapora?
+## Como é tratada a catapora?
 
 A maioria das crianças e adultos saudáveis apenas precisam de ficar em casa para tratar a catapora. O tratamento em casa inclui repouso e tomar medicamentos para diminuir a febre e a comichão. Você também pode tomar banhos de aveia para diminuir a comichão.
 

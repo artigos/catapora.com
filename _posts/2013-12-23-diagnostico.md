@@ -3,9 +3,9 @@ layout: default
 title: Diagnóstico da catapora
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Como é feito o diagnóstico da catapora?
+## Como é feito o diagnóstico da catapora?
 
 O seu médico perguntar-lhe-á sobre os seus sintomas e examiná-lo-á. Isto normalmente fornece informação suficiente para o seu médico descobrir se tem catapora.
 
